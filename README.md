@@ -39,7 +39,7 @@ Welcome to the No-SQL Ecommerce Backend, an efficient and scalable backend solut
 
 ## 📸 Screenshot
 
-*Screenshot will be added soon.*
+<img width="889" alt="Screenshot 2023-12-08 at 20 55 55" src="https://github.com/omarx/No-SQL-Ecommerce-Backend/assets/4944767/5ec9f62e-89fb-4267-a1ae-7bfc91cb0461">
 
 ## ❓ Questions & Support
 
